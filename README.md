@@ -1,7 +1,9 @@
-Rom's Frogger - Classic Arcade Game :beetle:
+Rom's Frogger - Classic Arcade Game :video_game:
 ===============================
 
-Game built as part of Udacity's Front-End Nanodegree
+Game built as part of Udacity's Front-End Nanodegree :beetle:
+
+Click the link to play: https://romluc.github.io/frogger 
 
 ## Instructions
 
